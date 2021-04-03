@@ -211,9 +211,9 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Aulão de Front</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Vem Com a Adapti</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Voaaaa camalebabys</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Adaptar é preciso</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Faz seu nome</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Orgulho de ser camaleão</a></li>
              
             </ul>
           </div>
