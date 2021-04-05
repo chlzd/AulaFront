@@ -41,7 +41,7 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Voa trainee</a></h1>
+      <h1 class="logo"><a href="index.html">CARLOS</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -51,24 +51,21 @@
           <li><a class="nav-link scrollto" href="#about">Sobre nós</a></li>
           <li><a class="nav-link scrollto" href="#services">Serviços</a></li>
           
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Portfólio</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+              <li><a href="#">Projeto 1</a></li>
+              <li class="dropdown"><a href="#"><span>Projeto 2</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="#">Cliente 1</a></li>
+                  <li><a href="#">Cliente 2</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
             </ul>
           </li>
           
+          <li><a class="nav-link scrollto" href="#services">Eventos</a></li>
+          <li><a class="nav-link scrollto" href="#services">Contatos</a></li>
+
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -93,29 +90,26 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Sobre nós</h2>
-          <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+          <h2>Porque Adapti?</h2>
+          <p>Acretido que me leva a procurar melhorar em varias áreas e me incentiva a tentar e praticar coisas novas</p>
         </div>
 
         <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+          <div class="col-lg-12">
+            <p style="text-align: center;">
+              O que pude ver até agora
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+            <ul class="row col-lg-12">
+              <li><i class="ri-check-double-line"></i> Muita coisa pra aprender</li>
+              <li><i class="ri-check-double-line"></i> Pessoas legais</li>
+              <li><i class="ri-check-double-line"></i> Muito organizado</li>
             </ul>
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
+          <div class="col-lg-12 pt-4 pt-lg-0">
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
+              
             </p>
-            <a href="#" class="btn-learn-more">Saiba Mais</a>
+            <div class="d-flex justify-content-center"><a href="#" class="btn-learn-more">Saiba Mais</a></div>
           </div>
         </div>
 
@@ -132,8 +126,8 @@
           <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
         </div>
 
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4 class="title"><a href="">Lorem Ipsum</a></h4>
@@ -141,7 +135,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
@@ -149,7 +143,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="">Magni Dolores</a></h4>
@@ -157,7 +151,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4 class="title"><a href="">Nemo Enim</a></h4>
@@ -170,6 +164,53 @@
       </div>
     </section><!-- End Services Section -->
 
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="porfolio">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Portfólio</h2>
+          <h3>Saiba mais sobre nossos <span>Projetos</span></h3>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bxl-dribbble"></i></div>
+              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-world"></i></div>
+              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
     
     
 
@@ -202,17 +243,22 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Navegue por aqui</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Início</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre nós</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Serviços</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Início</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Sobre nós</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Serviços</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Portfólio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Eventos</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Contato</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Nossos Valores</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Adaptar é preciso</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Faz seu nome</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Grita</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Ubuntu</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Adaptar é preciso</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Orgulho de ser camaleão</a></li>
              
             </ul>
